@@ -1,0 +1,15 @@
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\bin\Debug\net6.0\Zadacha52.exe
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\bin\Debug\net6.0\Zadacha52.deps.json
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\bin\Debug\net6.0\Zadacha52.runtimeconfig.json
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\bin\Debug\net6.0\Zadacha52.dll
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\bin\Debug\net6.0\Zadacha52.pdb
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\obj\Debug\net6.0\Zadacha52.csproj.AssemblyReference.cache
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\obj\Debug\net6.0\Zadacha52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\obj\Debug\net6.0\Zadacha52.AssemblyInfoInputs.cache
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\obj\Debug\net6.0\Zadacha52.AssemblyInfo.cs
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\obj\Debug\net6.0\Zadacha52.csproj.CoreCompileInputs.cache
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\obj\Debug\net6.0\Zadacha52.dll
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\obj\Debug\net6.0\refint\Zadacha52.dll
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\obj\Debug\net6.0\Zadacha52.pdb
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\obj\Debug\net6.0\Zadacha52.genruntimeconfig.cache
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem7-DZ7\Zadacha52\obj\Debug\net6.0\ref\Zadacha52.dll
